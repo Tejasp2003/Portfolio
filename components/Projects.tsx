@@ -96,7 +96,7 @@ const Projects = () => {
               "Stripe",
             ]}
             gitlink="https://github.com/Tejasp2003/Evently"
-            applink="https://evently-tk.vercel.app/"
+            applink="https://evently-tejas.vercel.app/"
           />
         </motion.div>
 

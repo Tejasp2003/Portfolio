@@ -121,7 +121,7 @@ const Projects = () => {
               "Typescript",
             ]}
             gitlink="https://github.com/Tejasp2003/RentEasy"
-            applink="rent-easy-next.vercel.app"
+            applink="https://rent-easy-next.vercel.app"
           />
         </motion.div>
 
@@ -149,7 +149,7 @@ const Projects = () => {
               "Zod",
             ]}
             gitlink="https://github.com/Tejasp2003/Threads"
-            applink="threads-tejasp2003.vercel.app/"
+            applink="https://threads-tejasp2003.vercel.app/"
           />
         </motion.div>
 

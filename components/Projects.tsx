@@ -194,7 +194,7 @@ const Projects = () => {
               "Javascript",
             ]}
             gitlink="https://github.com/Tejasp2003/MoviesInfo"
-            applink="imdb-clone-tejas.vercel.app"
+            applink="https://imdb-clone-tejas.vercel.app"
           />
         </motion.div>
 
